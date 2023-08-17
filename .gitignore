@@ -1,0 +1,5 @@
+node_modules
+user-data
+datosCapturados.json
+database.sqlite
+pdf
